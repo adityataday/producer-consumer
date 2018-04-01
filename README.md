@@ -1,8 +1,3 @@
-ESE 333 Real Time Operating Systems
-Project 2
-
-Author: Aditya Taday (109550833)
-
 Software Information:
 
 This software implements the producer-consumer problem. The contents of file1 will be copied to file2. The producer sends a signal after every chunk copied to shared buffer. The consumer sends a signal after every chunk put into the destination file. When the file copy is complete, the consumer send a termination signal to the main process. This triggers the main process to output the monitoring table. The monitoring table will have a series of 'P' and 'C' indicating the source of the signals.
@@ -39,5 +34,4 @@ avis@Avis:~/Downloads$ rm readme2
 
 Contact Information:
 
-Email: aditya.taday@stonybrook.edu
-
+Email: adi.taday@gmail.com
